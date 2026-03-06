@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>TES Institute</title>
+    <title>MY institute</title>
     <style>
         body {
             font-family: Arial;
@@ -30,7 +30,7 @@
 <body>
 
 <div class="container">
-    <h1>sssssssssssWelcome to TES Institute ...sss..  haiii</h1>
+    <h1>hellow how are u haiii</h1>
     <p>Providing Quality Technical Education</p>
     <p>Build Tool: Maven</p>
     <p>Status: Application is running successfully</p>
