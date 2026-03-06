@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>MY institute .</title>
+    <title>MY institute //.</title>
     <style>
         body {
             font-family: Arial;
